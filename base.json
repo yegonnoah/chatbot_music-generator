@@ -1,0 +1,80 @@
+{
+  "question": [
+    {
+      "question": "Hello",
+      "answer": "Hello!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Am good, and you?"
+    },
+    {
+      "question": "What is computer science",
+      "answer": "Is the study of computers and computing, including hardware and software."
+    },
+    {
+      "question": "Need an help",
+      "answer": "How can i help you"
+    },
+    {
+      "question": "What are courses available in university",
+      "answer": "Just few of them are computer science, IT, education, nursing, data science, biochemistry"
+    },
+    {
+      "question": "What are requirements for computer science ",
+      "answer": "Done well in maths and sciences and any other related"
+    },
+    {
+      "question": "Skills gained",
+      "answer": "software development, data analysis, networking AI, database administration"
+    },
+    {
+      "question": "Is CS a good course?",
+      "answer": "Yes! Helps you gain a lot of skills."
+    },
+    {
+      "question": "What are job opportunities from it?",
+      "answer": "Full stack developer, data analysts, database administrator"
+    },
+    {
+      "question": "By the way who are you?",
+      "answer": "Am a chatbot."
+    },
+    {
+      "question": "Thank you",
+      "answer": "nice, anything else you need to know"
+    },
+    {
+      "question": "Which institutions offer CS",
+      "answer": "Some of them are Karatina University, UON, DeKUT, UOE."
+    },
+    {
+      "question": "Where is Karatina main campus?",
+      "answer": "Found in Nyeri County."
+    },
+    {
+      "question": "What is personalized music playlist generator?",
+      "answer": "A software that creates customized playlists of songs based on individual user preference."
+    },
+    {
+      "question": "How to generate playlist?",
+      "answer": "Based on your favorite artist, mood, tempo."
+    },
+    {
+      "question": "What does it utilizes",
+      "answer": "It utilizes advance algorithms and user data to create playlist."
+    },
+    {
+      "question": "What are kinds of music?",
+      "answer": "They includes R&Bs, Hip Hop, Afro, wave music, airwave music, rap city, blues etc."
+    },
+    {
+      "question": "bye",
+      "answer": "Bye, see you later"
+    },
+    {
+      "question": "Nice day",
+      "answer": "Lovely day, take care"
+    }
+  ]
+}
